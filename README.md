@@ -1,6 +1,6 @@
 # flutter_rick_and_morty_app
 
-Based on the Rick and Morty series, it shows the characters,locations and episodes in that series.
+Based on the Rick and Morty series, it shows the characters,locations and episodes in that series.<br>
 Rick and Morty API = https://rickandmortyapi.com/<br>
 
 # Preview
