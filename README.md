@@ -1,16 +1,15 @@
 # flutter_rick_and_morty_app
 
-A new Flutter project.
+Based on the Rick and Morty series, it shows the characters,locations and episodes in that series.
+Rick and Morty API = https://rickandmortyapi.com/<br>
 
-## Getting Started
+# Preview
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Packages
+<li>auto_route, auto_route_generator, build_runner -> routing</li>
+<li>dio -> api management</li>
+<li>provider -> state management</li>
+<li>lottie,dot_navıgatıon_bar -> ui</li>
+<li>async -> core</li>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
